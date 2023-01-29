@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family: 'Roboto'
+}
+
+/* ---- NAV BAR ---- */
+
+nav{
+    position: sticky;
+    height: 45px;
+    background-color: rgb(80, 34, 154);
+    padding: 0px 100px 0px 100px;
+}
+
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    float: left;
+    padding:12px 50px 11px 50px;
+}
+
+.contact{
+    float: right;
+}
